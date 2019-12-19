@@ -17,4 +17,5 @@
 
 Номер   | Название                                                       
 --------|----------
-1       | [Добавить](https://github.com/sochijs/tasks/new/master/tasks)
+1       | [Paintball canvas](https://github.com/sochijs/tasks/blob/master/tasks/paintball-canvas.md)
+2       | [Добавить](https://github.com/sochijs/tasks/new/master/tasks)
