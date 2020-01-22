@@ -14,4 +14,4 @@
 В конце игры показать кол-во потраченных ходов и кол-во очков.
 
 ### Интерфейс
-<img src="https://github.com/sochijs/tasks/blob/master/tasks/media/blind-bandit/interface.jpg?raw=true" alt="blind bandit interface" width="240" height="240" />
+<img src="https://github.com/sochijs/tasks/blob/master/tasks/media/blind-bandit/interface.jpg?raw=true" alt="blind bandit interface" width="100%" height="100%" />
