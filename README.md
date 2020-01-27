@@ -19,4 +19,5 @@
 --------|----------
 1       | [Paintball canvas](https://github.com/sochijs/tasks/blob/master/tasks/paintball-canvas.md)
 2       | [Слепой бандит](https://github.com/sochijs/tasks/blob/master/tasks/blind-bandit.md)
-3       | [Добавить](https://github.com/sochijs/tasks/new/master/tasks)
+3       | [Эффект матрицы](https://github.com/sochijs/tasks/blob/master/tasks/matrix-effect.md)
+4       | [Добавить](https://github.com/sochijs/tasks/new/master/tasks)
